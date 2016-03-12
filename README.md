@@ -2,7 +2,7 @@
 > Transform google spreadsheet workbook into real-time, clean JSON
 
 ## Context
-* google spreadsheet workbook (version 2016-03)
+* google spreadsheet workbook (circa 2016-03)
 
 ## Problem
 * Trevor has a google spreadsheet workbook with data on multiple worksheets;
