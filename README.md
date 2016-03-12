@@ -3,6 +3,7 @@
 
 ## Context
 * google spreadsheet workbook (circa 2016-03)
+* google apps script
 
 ## Problem
 * Trevor has a google spreadsheet workbook with data on multiple worksheets;
