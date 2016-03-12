@@ -8,6 +8,7 @@
 * Trevor wants to transform the google_messy_json into google_clean_json;
 
 ## Solution
+* google_clean_json
 
 ## Pitfalls
 * This approach requires making the google spreadsheet workbook *world readable*
