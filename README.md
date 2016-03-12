@@ -1,5 +1,5 @@
 # google_clean_json
-> transform google spreadsheet workbook into real-time, clean JSON
+> Transform google spreadsheet workbook into real-time, clean JSON
 
 ## Problem
 * Trevor has a google spreadsheet workbook with data on multiple worksheets;
