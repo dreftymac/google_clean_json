@@ -4,7 +4,7 @@
 ## Problem
 * Trevor has a google spreadsheet workbook with data on multiple worksheets;
 * Trevor wants to get a real-time JSON representation of the workbook;
-* Google supports JSON feed output format for a workbook, but the JSON is messy;
+* Google supports JSON feed output format for a workbook, but the JSON is google_messy_json;
 * Trevor wants to transform the google_messy_json into google_clean_json;
 
 ## Solution
