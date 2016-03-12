@@ -1,6 +1,9 @@
 # google_clean_json
 > Transform google spreadsheet workbook into real-time, clean JSON
 
+## Context
+* google spreadsheet workbook (version 2016-03)
+
 ## Problem
 * Trevor has a google spreadsheet workbook with data on multiple worksheets;
 * Trevor wants to get a real-time JSON representation of the workbook;
